@@ -3,5 +3,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-Google Cloab
+jupyter
 notebook
