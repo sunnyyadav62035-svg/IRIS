@@ -118,11 +118,7 @@ qskill-iris-flower-classification/
 ├── Iris_Flower_Classification.ipynb
 ├── README.md
 ├── requirements.txt
-└── screenshots/
-    ├── dataset.png
-    ├── visualization.png
-    ├── confusion_matrix.png
-    └── prediction.png
+
 ```
 
 ## 🎓 Internship
